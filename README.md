@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiesx
 - 👀 I’m interested in Software and Hardware-Developement
-- 🌱 I’m currently learning C/C++, VHDL
+- 🌱 I’m currently learning C/C++, VHDL, ARM Assembly
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me: hit me up!
 
